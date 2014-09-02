@@ -1,0 +1,11 @@
+C:\Users\andy.DDDES\Google Drive\C#\Wpf3d1\Wpf3d1\bin\Debug\Wpf3d1.exe
+C:\Users\andy.DDDES\Google Drive\C#\Wpf3d1\Wpf3d1\bin\Debug\Wpf3d1.pdb
+C:\Users\andy.DDDES\Google Drive\C#\Wpf3d1\Wpf3d1\obj\x86\Debug\MainWindow.baml
+C:\Users\andy.DDDES\Google Drive\C#\Wpf3d1\Wpf3d1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\andy.DDDES\Google Drive\C#\Wpf3d1\Wpf3d1\obj\x86\Debug\App.g.cs
+C:\Users\andy.DDDES\Google Drive\C#\Wpf3d1\Wpf3d1\obj\x86\Debug\Wpf3d1_MarkupCompile.cache
+C:\Users\andy.DDDES\Google Drive\C#\Wpf3d1\Wpf3d1\obj\x86\Debug\Wpf3d1.g.resources
+C:\Users\andy.DDDES\Google Drive\C#\Wpf3d1\Wpf3d1\obj\x86\Debug\Wpf3d1.Properties.Resources.resources
+C:\Users\andy.DDDES\Google Drive\C#\Wpf3d1\Wpf3d1\obj\x86\Debug\Wpf3d1.csproj.GenerateResource.Cache
+C:\Users\andy.DDDES\Google Drive\C#\Wpf3d1\Wpf3d1\obj\x86\Debug\Wpf3d1.exe
+C:\Users\andy.DDDES\Google Drive\C#\Wpf3d1\Wpf3d1\obj\x86\Debug\Wpf3d1.pdb
